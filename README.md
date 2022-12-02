@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AlexYodice
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- alexanderyodice2@gmail.com
+
+https://www.linkedin.com/in/alexander-yodice-434595235
+
+<!---
+AlexYodice/AlexYodice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
