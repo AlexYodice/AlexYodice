@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 im a Computer Engineering student
 ---------------------------------
 
-👋 Hi, I’m @AlexYodice 📓 I'm a 4th Year Computer Engineering Undergraduate student at University of Puerto Rico - Polytechnic University of Puerto Rico - San Juan Campus.
+👋 Hi, I’m @AlexYodice 
+
+📓 I'm a 4th Year Computer Engineering Undergraduate student at University of Puerto Rico - Polytechnic University of Puerto Rico 
+- San Juan Campus.
 
 * 🌍  I'm based in Carolina, PR
 * 🖥️  See my portfolio at [https://alexyodicewebsite.netlify.app](http://alexyodicewebsite.netlify.app)
