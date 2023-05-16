@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander A. Yodice Maldonado
 =====================================================================================================================================================
 
-im a Computer Engineering student
+4th Year Computer Engineering Undergraduate
 ---------------------------------
 
 👋 Hi, I’m @AlexYodice 
