@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander A. Yodice Maldonado
 =====================================================================================================================================================
 
-4th Year Undergraduate in Computer Engineering 
+5th Year Undergraduate in Computer Engineering 
 ---------------------------------
 
 👋 Hi, I’m @AlexYodice 
 
-📓 I'm a 5th Year Computer Engineering Undergraduate student at the Polytechnic University of Puerto Rico 
+📓 I'm a Computer Engineering Undergraduate student at the Polytechnic University of Puerto Rico 
 - San Juan Campus.
 
 * 🌍  I'm based in Carolina, PR
